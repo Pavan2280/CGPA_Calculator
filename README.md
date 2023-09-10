@@ -10,10 +10,9 @@
 # Table of contents
 
 <details>
-<summary>DAY-1</summary>
+<summary> Introduction</summary>
 <br>
 
-+ Introduction
-  This repository contains two Python code files for calculating Cumulative Grade Point Average (CGPA) using GUI.
++ This repository contains two Python code files for calculating Cumulative Grade Point Average (CGPA) using GUI.
 
 </details>
