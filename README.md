@@ -21,7 +21,7 @@ This GitHub repository hosts a user-friendly Cumulative Grade Point Average (CGP
 <summary>Code-1</summary>
 <br>
   
-+ cgpa_cal.py: This Python script is designed for individual use. It allows a single user to input their marks, calculates their CGPA, and provides the result for that individual student.
+cgpa_cal.py: This Python script is designed for individual use. It allows a single user to input their marks, calculates their CGPA, and provides the result for that individual student.
 
 </details>
 
@@ -29,6 +29,6 @@ This GitHub repository hosts a user-friendly Cumulative Grade Point Average (CGP
 <summary>Code-2</summary>
 <br>
   
-+ cgpa_cal_mutiple_student.py :This Python script is intended for use with a group of students, specifically up to five students. It likely allows multiple users to input their marks, calculates the CGPA for each student, and may even generate a bar graph to visually represent the CGPAs of these students for comparison.
+cgpa_cal_mutiple_student.py :This Python script is intended for use with a group of students, specifically up to five students. It likely allows multiple users to input their marks, calculates the CGPA for each student, and may even generate a bar graph to visually represent the CGPAs of these students for comparison.
 
 </details>
