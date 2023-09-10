@@ -22,7 +22,6 @@ This GitHub repository hosts a user-friendly Cumulative Grade Point Average (CGP
 <br>
 
 - Easy-to-use Python script for calculating CGPA.
-- Customizable for different grading systems (e.g., 4.0 scale, 10.0 scale).
 - Supports input of marks for multiple subjects.
 - Accurate calculation of CGPA based on provided marks.
 - User-friendly interface with on-screen instructions.
