@@ -10,10 +10,22 @@
 # Table of contents
 
 <details>
-<summary> Introduction</summary>
+<summary>Introduction</summary>
 <br>
 
 This GitHub repository hosts a user-friendly Cumulative Grade Point Average (CGPA) calculator implemented in Python, featuring an intuitive Graphical User Interface (GUI). With the provided Python code files, you can effortlessly compute your CGPA by inputting your marks.
+
+</details>
+
+<details>
+<summary>Features</summary>
+<br>
+
+- Easy-to-use Python script for calculating CGPA.
+- Customizable for different grading systems (e.g., 4.0 scale, 10.0 scale).
+- Supports input of marks for multiple subjects.
+- Accurate calculation of CGPA based on provided marks.
+- User-friendly interface with on-screen instructions.
 
 </details>
 
