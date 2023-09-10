@@ -47,4 +47,10 @@ python cgpa_cal.py
   
 cgpa_cal_mutiple_student.py :This Python script is intended for use with a group of students, specifically up to five students. It likely allows multiple users to input their marks, calculates the CGPA for each student, and may even generate a bar graph to visually represent the CGPAs of these students for comparison.
 
+Run the script:
+```
+python cgpa_cal_mutiple_student.py
+```
+
+
 </details>
