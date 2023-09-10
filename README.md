@@ -39,6 +39,9 @@ Run the script:
 python cgpa_cal.py
 ```
 
+Output SS:
+![image](https://github.com/Pavan2280/CGPA_Calculator/assets/131603225/ca8822b2-3a51-45b0-9b36-633a33a75b87)
+
 </details>
 
 <details>
@@ -52,5 +55,23 @@ Run the script:
 python cgpa_cal_mutiple_student.py
 ```
 
+Output SS:
+1st student
+![Screenshot (131)](https://github.com/Pavan2280/CGPA_Calculator/assets/131603225/eb140d8b-5d8d-431e-a287-30caebf20e0c)
+
+2nd student
+![Screenshot (132)](https://github.com/Pavan2280/CGPA_Calculator/assets/131603225/056b4b4f-1a66-4781-a26f-9eabb9774ca0)
+
+3rd student
+![Screenshot (133)](https://github.com/Pavan2280/CGPA_Calculator/assets/131603225/46af070c-7ac0-41cc-adbd-3f51ddca6aed)
+
+4th student
+![Screenshot (134)](https://github.com/Pavan2280/CGPA_Calculator/assets/131603225/b3c9cff5-0202-407d-a364-a13d19ccd67f)
+
+5th student
+![Screenshot (135)](https://github.com/Pavan2280/CGPA_Calculator/assets/131603225/541f64f8-7b0b-4e9f-b24d-7d9f8f49b6e7)
+
+Plot
+![Screenshot (136)](https://github.com/Pavan2280/CGPA_Calculator/assets/131603225/50879162-11ce-480f-b6df-032b36602fbe)
 
 </details>
