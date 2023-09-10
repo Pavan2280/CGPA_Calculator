@@ -4,7 +4,7 @@
 > The CGPA Calculator is a Python program with a Graphical User Interface (GUI) that allows users to calculate their Cumulative Grade Point Average (CGPA) easily. The primary objective of this project is to provide a user-friendly tool for students to calculate their CGPA quickly and accurately.
 
 # Technologies Used
-- Python
+- Python 3.11.4
 - Tkinter (for GUI)
 
 # Table of contents
